@@ -30,6 +30,8 @@ class MainActivity : AppCompatActivity() {
 
         //1 Toast
         Toast.makeText(this,"Welcome",Toast.LENGTH_LONG).show()
+        //Toast.LENGTH_LONG: UZUN GÖSTERİM
+        //Toast.LENGTH_SHORT: KISA GÖSTERİM
 
         /*
         binding.save.setOnClickListener {
